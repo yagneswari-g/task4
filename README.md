@@ -4,8 +4,8 @@
 The objective of this task is to apply aggregate functions and grouping techniques in SQL to summarize and analyze tabular data.
 
 ##  Tools Used
-- MySQL Workbench *(or)* DB Browser for SQLite
-- Sample database (Employees, Sales, or custom created tables)
+- MySQL Workbench 
+- Sample database (Employees tables)
 
 ## Key Concepts
 - Aggregate Functions: `COUNT()`, `SUM()`, `AVG()`, `MIN()`, `MAX()`, `ROUND()`
